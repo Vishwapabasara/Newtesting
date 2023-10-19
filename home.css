@@ -41,6 +41,9 @@ nav ul li {
     display: inline;
     margin-right: 20px;
 }
+nav a.active {
+    color: #ff6600; /* Change the color of the active link */
+}
 
 nav a {
     color: #131010;
